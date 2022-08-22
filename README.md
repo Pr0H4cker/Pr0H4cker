@@ -1,6 +1,7 @@
 ### Hi there 👋
 ## I am Carson Sernick
-
+https://carsonsernick.info/
+Carson Sernick, website
 - A **FullStack** developer
 - I am 15 years old
 - I have 6 years of coding experience
