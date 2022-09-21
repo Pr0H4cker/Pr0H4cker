@@ -15,7 +15,7 @@ Carson Sernick, website
 # Contact me here
 
 #### -Carson@carsonsernick.info
-#### - carsonsernick.info
+#### - https://carsonsernick.info
 
 # My Profiles
 - https://replit.com/@Carson-Sernick
