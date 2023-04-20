@@ -3,7 +3,7 @@
 https://carsonsernick.info/
 Carson Sernick, website
 - A **FullStack** developer
-- I am 15 years old
+- I am 16 years old
 - I have 6 years of coding experience
 - I code in HTML, CSS, and JS Mainly
 - I sometimes code Python and Java
