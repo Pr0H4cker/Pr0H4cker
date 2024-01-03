@@ -23,8 +23,7 @@ Carson Sernick, website
 
 
 <div style="align:center;">
-<a href="https://patreon.com/carsonsernick?utm_medium=clipboard_copy&utm_source=copyLink&utm_campaign=creatorshare_creator"><button class="button-9" role="button">Become A Patron</button></a>
-<a href="https://replit.com/@Carson-Sernick"><button class="button-9" role="button">Repl.it Profile</button></a>
+  <a href="https://replit.com/@Carson-Sernick"><button class="button-9" role="button">Repl.it Profile</button></a>
 <a href="https://github.com/Pr0H4cker"><button class="button-9" role="button">Github Profile</button></a>
 <a href="https://www.youtube.com/channel/UC1x-CCdqiFDSzI3J72f914w"><button class="button-9" role="button">Youtube</button></a>
 
