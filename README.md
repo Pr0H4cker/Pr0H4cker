@@ -1,5 +1,5 @@
 ### Hello there 👋
-## I am Carson Sernick
+## I'm Carson Sernick
 https://carsonsernick.info/
 Carson Sernick, website
 - A **FullStack** developer
