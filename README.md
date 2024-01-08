@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 ## I am Carson Sernick
 https://carsonsernick.info/
 Carson Sernick, website
